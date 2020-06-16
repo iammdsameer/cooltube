@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cooltube/precache-manifest.b58a4c3374d0ca06436cf899a539b16e.js"
+  "/cooltube/precache-manifest.903f036c53419684ad814538a974fa93.js"
 );
 
 self.addEventListener('message', (event) => {
