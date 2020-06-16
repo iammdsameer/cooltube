@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cooltube/static/css/main.79242ed4.chunk.css",
+    "main.js": "/cooltube/static/js/main.3ca89d83.chunk.js",
+    "main.js.map": "/cooltube/static/js/main.3ca89d83.chunk.js.map",
+    "runtime-main.js": "/cooltube/static/js/runtime-main.15be81bc.js",
+    "runtime-main.js.map": "/cooltube/static/js/runtime-main.15be81bc.js.map",
+    "static/js/2.36a94e28.chunk.js": "/cooltube/static/js/2.36a94e28.chunk.js",
+    "static/js/2.36a94e28.chunk.js.map": "/cooltube/static/js/2.36a94e28.chunk.js.map",
+    "index.html": "/cooltube/index.html",
+    "precache-manifest.b58a4c3374d0ca06436cf899a539b16e.js": "/cooltube/precache-manifest.b58a4c3374d0ca06436cf899a539b16e.js",
+    "service-worker.js": "/cooltube/service-worker.js",
+    "static/css/main.79242ed4.chunk.css.map": "/cooltube/static/css/main.79242ed4.chunk.css.map",
+    "static/js/2.36a94e28.chunk.js.LICENSE.txt": "/cooltube/static/js/2.36a94e28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15be81bc.js",
+    "static/js/2.36a94e28.chunk.js",
+    "static/css/main.79242ed4.chunk.css",
+    "static/js/main.3ca89d83.chunk.js"
+  ]
+}
